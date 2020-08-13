@@ -1,23 +1,32 @@
-# msiPL
+**msiPL**
 Python Implementation of the msiPL by Abdelmoula et al.
 
-This readme file shows how to properly run the msiPL code by
-Walid Abdelmoula et al, msiPL: Non-linear Manifold and Peak Learning of Mass Spectrometry Imaging Data Using Artificial Neural Networks, bioRxiv, 2020 
+This readme file shows how to properly run the msiPL code 
 
-License: The Peak Learning software (msiPL) will be shared using the 3D Slicer Software License agreement.
+**Paper:** Walid Abdelmoula et al, msiPL: Non-linear Manifold and Peak Learning of Mass Spectrometry Imaging Data Using Artificial Neural Networks, bioRxiv, 2020 
 
-Installations: Software and Libraries 
+**License:** The Peak Learning software (msiPL) will be shared using the 3D Slicer Software License agreement.
+
+**Installations: Software and Libraries** 
+
 We have implemented our machine learning model using the following software items:
+
 1- Python(3.6.4)
+
 2- Keras (2.1.5-tf) with a Tensorflow(1.8.0) backend.
+
 3- Packages: numpy(1.14.2), sklearn(0.19.1), scipy(1.0.0), and h5py(2.7.1)
+
 4- We implemented this model on Windows 10 PC workstation(Intel Xenon 3.3GHz, 512 GB RAM, 64-bit Windows, 2 GPUs NVIDIA TITAN Xp).
 	
+ Demo 
+ ---------------
+ 
+* How to run the code?
 
----------------------------------- Demo --------------------------------------
-How to run the code?
 	1- "msiPL_Run.py" is the main file that you should run first. The file should be running in a sequential manner, and we have
 	provided required comments for instructions and guidance. In this file you will be able to:
+	
 		1.1. Load a dataset.
 		1.2. Load the computational neural network architecture (VAE_BN).
 		1.3. Train the model.
@@ -36,5 +45,7 @@ How to run the code?
 	4. "msiPL_ForTesting.py": ultra-fast analysis on test data without any prior peak picking.
 		You will need first to load the trained model from step#1 ("msiPL_Run.py").
 
-------------------------------------------------------------------------------------
-We provide a sample of a publicly available MSI data to train and test the model and to ensure reproducibility.
+* If you used this implementation:
+------
+
+please cite the paper by Abdelmoula et al, msiPL
