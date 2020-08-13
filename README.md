@@ -6,13 +6,13 @@ Walid Abdelmoula et al, msiPL: Non-linear Manifold and Peak Learning of Mass Spe
 
 License: The Peak Learning software (msiPL) will be shared using the 3D Slicer Software License agreement.
 
----------------------- Installations: Software and Libraries --------------
+Installations: Software and Libraries 
 We have implemented our machine learning model using the following software items:
-	1- Python(3.6.4)
-	2- Keras (2.1.5-tf) with a Tensorflow(1.8.0) backend.
-	3- Packages: numpy(1.14.2), sklearn(0.19.1), scipy(1.0.0), and h5py(2.7.1)
-	4- We implemented this model on Windows 10 PC workstation(Intel Xenon 3.3GHz, 512 GB RAM, 64-bit Windows, 2 GPUs NVIDIA TITAN Xp).
------------------------------------------------------------------------------
+1- Python(3.6.4)
+2- Keras (2.1.5-tf) with a Tensorflow(1.8.0) backend.
+3- Packages: numpy(1.14.2), sklearn(0.19.1), scipy(1.0.0), and h5py(2.7.1)
+4- We implemented this model on Windows 10 PC workstation(Intel Xenon 3.3GHz, 512 GB RAM, 64-bit Windows, 2 GPUs NVIDIA TITAN Xp).
+	
 
 ---------------------------------- Demo --------------------------------------
 How to run the code?
