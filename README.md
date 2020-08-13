@@ -1,5 +1,6 @@
 **msiPL**
-Python Implementation of the msiPL by Abdelmoula et al.
+---------
+Deep Learning based implementation for analysis of mass spectrometry imaging data
 
 This readme file shows how to properly run the msiPL code 
 
@@ -8,6 +9,7 @@ This readme file shows how to properly run the msiPL code
 **License:** The Peak Learning software (msiPL) will be shared using the 3D Slicer Software License agreement.
 
 **Installations: Software and Libraries** 
+--------
 
 We have implemented our machine learning model using the following software items:
 
@@ -45,7 +47,6 @@ We have implemented our machine learning model using the following software item
 	4. "msiPL_ForTesting.py": ultra-fast analysis on test data without any prior peak picking.
 		You will need first to load the trained model from step#1 ("msiPL_Run.py").
 
-* If you used this implementation:
+If you used this implementation:
 ------
-
 please cite the paper by Abdelmoula et al, msiPL
