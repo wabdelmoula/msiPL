@@ -6,7 +6,7 @@ This readme file shows how to properly run the msiPL code
 
 **Paper:** Walid Abdelmoula et al, msiPL: Non-linear Manifold and Peak Learning of Mass Spectrometry Imaging Data Using Artificial Neural Networks, bioRxiv, 2020 
 
-**License:** The Peak Learning software (msiPL) will be shared using the 3D Slicer Software License agreement.
+**License:** The msiPL code is shared under the 3D Slicer Software License agreement.
 
 **Installations: Software and Libraries** 
 --------
@@ -49,4 +49,4 @@ We have implemented our machine learning model using the following software item
 
 If you used this implementation:
 ------
-please cite the paper by Abdelmoula et al, msiPL
+please cite the paper by Abdelmoula et al, msiPL: https://www.biorxiv.org/content/10.1101/2020.08.13.250142v1.abstract
