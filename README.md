@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/287381023.svg)](https://zenodo.org/badge/latestdoi/287381023)
+
 **msiPL**
 ---------
 Deep Learning based implementation for analysis of mass spectrometry imaging data
